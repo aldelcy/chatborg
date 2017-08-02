@@ -1,0 +1,21 @@
+Create a chatbot that learns as we chat.
+
+# It will start by asking a convo starting prompt
+# User will respond
+# Based on response from User, the bot will analyse and respond accordingly to keep convo going.
+# Bot will save responses in appropriate categories in order to respond appropriatly to user questions.
+
+
+
+
+
+
+Tasks:
+
+# Research some modules/technologies we will need
+# Create a categorized library of common phrases and prompts
+# Create a categorized library of common responses
+# Create General Chatbot class with behaviors and starter functions
+# Create the main file that starts the conversation using the ChatBot class
+# Write function that finds keyword and categorize based on a general topic
+# 
